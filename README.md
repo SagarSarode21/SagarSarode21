@@ -2,7 +2,7 @@
 
 Hi there, I'm Sagar! 👋
 
-### Data Analyst | SQL • Power BI • Tableau • ExcelSQL
+### Data Analyst | SQL • Power BI • Tableau • Advanced Excel
 
 I'm a passionate Data Analyst who loves turning raw data into meaningful insights.
 
