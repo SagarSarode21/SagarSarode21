@@ -39,9 +39,17 @@ opportunities in Data Analytics and Business Intelligence.
 
 | Project | Tools Used | Description |
 |---------|-----------|-------------|
-| 🔗 [Revenue Leakage And Discount Abuse Analysis](#) | SQL, Python, Power BI | Brief description of what it does |
-| 🔗 [Earthquake Tsunami Risk Analysis](#) | Python, Pandas, NumPy, Jupyter Notebook | Brief description of what it does |
-| 🔗 [Global Disaster Response Analysis](#) | Power BI, Advanced Excel, Power Query, Power Pivot | Brief description of what it does |
+| 🔗 [Revenue Leakage And Discount Abuse Analysis](#) | SQL, Python, Power BI | The objective was to analyze how discounts and refunds impact overall revenue and identify high-risk areas affecting business profitability.
+
+Retail businesses often lose revenue due to excessive discounts, refunds, and inefficient pricing practices. Detecting these leakages is important for improving profitability and operational control. |
+| 🔗 [Earthquake Tsunami Risk Analysis](#) | Python, Pandas, NumPy, Jupyter Notebook | High magnitude alone does not guarantee tsunami occurrence.
+
+Tsunami-generating earthquakes tend to occur at shallower depths.
+
+Tsunami events are relatively rare but spike in certain years. |
+| 🔗 [Global Disaster Response Analysis](#https://github.com/SagarSarode21/Global-Disaster-Response-Dashboard) | Power BI, Power Query, DAX, Power Pivot | Disaster occurrences peaked in 2021, with floods and hurricanes being the most frequent.
+
+Increased aid distribution showed a positive correlation with higher response efficiency. |
 
 ---
 
